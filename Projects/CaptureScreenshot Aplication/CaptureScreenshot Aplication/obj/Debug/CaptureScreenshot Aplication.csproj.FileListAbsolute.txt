@@ -1,0 +1,8 @@
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\bin\Debug\CaptureScreenshot Aplication.exe.config
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\bin\Debug\CaptureScreenshot Aplication.exe
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\bin\Debug\CaptureScreenshot Aplication.pdb
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\obj\Debug\CaptureScreenshot_Aplication.Form1.resources
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\obj\Debug\CaptureScreenshot_Aplication.Properties.Resources.resources
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\obj\Debug\CaptureScreenshot Aplication.csproj.GenerateResource.Cache
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\obj\Debug\CaptureScreenshot Aplication.exe
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\CaptureScreenshot Aplication\CaptureScreenshot Aplication\obj\Debug\CaptureScreenshot Aplication.pdb
