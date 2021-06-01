@@ -1,0 +1,9 @@
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\bin\Debug\NotePad Aplication.exe.config
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\bin\Debug\NotePad Aplication.exe
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\bin\Debug\NotePad Aplication.pdb
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.csprojResolveAssemblyReference.cache
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad_Aplication.Form1.resources
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad_Aplication.Properties.Resources.resources
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.csproj.GenerateResource.Cache
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.exe
+C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.pdb
