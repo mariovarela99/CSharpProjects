@@ -7,3 +7,6 @@ C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NoteP
 C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.csproj.GenerateResource.Cache
 C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.exe
 C:\Users\Mário Varela\projects\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.pdb
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\bin\Debug\NotePad Aplication.exe.config
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.exe
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\NotePad Aplication\NotePad Aplication\obj\Debug\NotePad Aplication.pdb

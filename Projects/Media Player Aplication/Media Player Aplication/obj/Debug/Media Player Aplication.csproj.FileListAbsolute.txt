@@ -12,3 +12,17 @@ C:\Users\Mário Varela\projects\CSharpProjects\Projects\Media Player Aplication\
 C:\Users\Mário Varela\projects\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.csproj.GenerateResource.Cache
 C:\Users\Mário Varela\projects\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.exe
 C:\Users\Mário Varela\projects\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.pdb
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\bin\Debug\Media Player Aplication.exe.config
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Interop.WMPLib.dll
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.csproj.ResolveComReference.cache
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.exe
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.pdb
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\bin\Debug\Media Player Aplication.exe
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\bin\Debug\Media Player Aplication.pdb
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\bin\Debug\Interop.WMPLib.dll
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.csprojResolveAssemblyReference.cache
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media_Player_Aplication.Form1.resources
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media_Player_Aplication.Properties.Resources.resources
+C:\Users\mariovarela99\Documents\CSharpProjects\Projects\Media Player Aplication\Media Player Aplication\obj\Debug\Media Player Aplication.csproj.GenerateResource.Cache
