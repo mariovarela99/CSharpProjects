@@ -1,0 +1,9 @@
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\bin\Debug\CaseSumSaveDGV.exe.config
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\bin\Debug\CaseSumSaveDGV.exe
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\bin\Debug\CaseSumSaveDGV.pdb
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\obj\Debug\CaseSumSaveDGV.csprojResolveAssemblyReference.cache
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\obj\Debug\CaseSumSaveDGV.Home.resources
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\obj\Debug\CaseSumSaveDGV.Properties.Resources.resources
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\obj\Debug\CaseSumSaveDGV.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\obj\Debug\CaseSumSaveDGV.exe
+C:\Users\mariovarela99\Documents\Projects\CaseSumSaveDGV\CaseSumSaveDGV\obj\Debug\CaseSumSaveDGV.pdb
