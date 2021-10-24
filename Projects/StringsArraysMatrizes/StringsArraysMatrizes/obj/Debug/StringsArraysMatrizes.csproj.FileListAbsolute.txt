@@ -1,0 +1,9 @@
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\bin\Debug\StringsArraysMatrizes.exe.config
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\obj\Debug\StringsArraysMatrizes.csprojResolveAssemblyReference.cache
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\obj\Debug\StringsArraysMatrizes.Form1.resources
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\obj\Debug\StringsArraysMatrizes.Properties.Resources.resources
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\obj\Debug\StringsArraysMatrizes.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\bin\Debug\StringsArraysMatrizes.exe
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\bin\Debug\StringsArraysMatrizes.pdb
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\obj\Debug\StringsArraysMatrizes.exe
+C:\Users\mariovarela99\Documents\Projects\StringsArraysMatrizes\StringsArraysMatrizes\obj\Debug\StringsArraysMatrizes.pdb
