@@ -1,0 +1,8 @@
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\bin\Debug\Exercicio Aula 27 28.exe.config
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\bin\Debug\Exercicio Aula 27 28.exe
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\bin\Debug\Exercicio Aula 27 28.pdb
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\obj\Debug\Exercicio_Aula_27_28.Form1.resources
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\obj\Debug\Exercicio_Aula_27_28.Properties.Resources.resources
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\obj\Debug\Exercicio Aula 27 28.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\obj\Debug\Exercicio Aula 27 28.exe
+C:\Users\mariovarela99\Documents\Projects\Exercicio Aula 27 28\Exercicio Aula 27 28\obj\Debug\Exercicio Aula 27 28.pdb
